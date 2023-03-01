@@ -7,7 +7,7 @@ import "../styles/index.css";
 
 //import your own components
 
-import Semaforo from "./component/semaforo.jsx";
+import Navbar from "./component/navbar.jsx";
 
 //render your react application
-ReactDOM.render(<Semaforo />, document.querySelector("#app"));
+ReactDOM.render(<Navbar />, document.querySelector("#app"));
