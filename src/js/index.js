@@ -7,7 +7,7 @@ import "../styles/index.css";
 
 //import your own components
 
-import Navbar from "./component/navbar.jsx";
+import Card from "./component/card.jsx";
 
 //render your react application
-ReactDOM.render(<Navbar />, document.querySelector("#app"));
+ReactDOM.render(<Card />, document.querySelector("#app"));

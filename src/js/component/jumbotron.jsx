@@ -3,8 +3,16 @@ import React from "react";
 const Jumbotron=()=>{
     return(
     <>
-    <h1>Hans Quiere</h1>
-    <h2>una termomix</h2>
+    <Jumbotron> <h1>
+   ¡Hola, mundo ! _ _ _ </ h1 > < p > 
+    Esta es una unidad de héroe simple,uncomponente de estilojumbotronparallamar
+  
+    atención adicional al contenido o la información destacados . 
+  </ p > 
+  < p > 
+    < Button  bsStyle = " primary " > Más información </ 
+  Button
+ > < / p > </ Jumbotron > ;
     
     </>
     )
