@@ -3,15 +3,9 @@ import React from "react";
 const Footer=()=>{
     return(
     <>
-    <MDBFooter bgColor='light' className='text-center text-lg-left'>
-      <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        &copy; {new Date().getFullYear()} Copyright:{' '}
-        <a className='text-dark' href='https://mdbootstrap.com/'>
-          MDBootstrap.com
-        </a>
-      </div>
-    </MDBFooter>
-    
+   <div className="bg-dark d-flex justify-content-center text-light mt-5">
+    <p>Copyright 2023© www.diego-1984.com</p>
+    </div>
     </>
     )
 }
