@@ -1,6 +1,6 @@
 import React from "react";
 
-const Jumbotron=()=>{
+const MyJumbotron=()=>{
     return(
     <>
     <Jumbotron>
@@ -17,4 +17,4 @@ const Jumbotron=()=>{
     </>
     )
 }
-export default Jumbotron;
+export default MyJumbotron;
